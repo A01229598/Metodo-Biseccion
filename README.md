@@ -4,7 +4,7 @@ Este es uno de los métodos más sencillos y de fácil intuición para resolver 
 El método consiste en lo siguiente:
 
 Debe existir seguridad sobre la continuidad de la función f(x) en el intervalo [a,b]
-A continuación se verifica que {\displaystyle \scriptstyle f(a)\cdot f(b)<0} {\displaystyle \scriptstyle f(a)\cdot f(b)<0}
+A continuación se verifica que f(a)f(b)<0
 Se calcula el punto medio m del intervalo [a,b] y se evalúa f(m) si ese valor es igual a cero, ya hemos encontrado la raíz buscada
 En caso de que no lo sea, verificamos si f(m) tiene signo opuesto con f(a) o con f(b)
 Se redefine el intervalo [a, b] como [a, m] ó [m, b] según se haya determinado en cuál de estos intervalos ocurre un cambio de signo
